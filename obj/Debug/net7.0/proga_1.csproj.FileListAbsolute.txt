@@ -1,0 +1,15 @@
+C:\Kate\учеба\_ГБ\c# курс\proga_1\bin\Debug\net7.0\proga_1.exe
+C:\Kate\учеба\_ГБ\c# курс\proga_1\bin\Debug\net7.0\proga_1.deps.json
+C:\Kate\учеба\_ГБ\c# курс\proga_1\bin\Debug\net7.0\proga_1.runtimeconfig.json
+C:\Kate\учеба\_ГБ\c# курс\proga_1\bin\Debug\net7.0\proga_1.dll
+C:\Kate\учеба\_ГБ\c# курс\proga_1\bin\Debug\net7.0\proga_1.pdb
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.csproj.AssemblyReference.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.AssemblyInfoInputs.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.AssemblyInfo.cs
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.csproj.CoreCompileInputs.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.dll
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\refint\proga_1.dll
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.pdb
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\proga_1.genruntimeconfig.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_1\obj\Debug\net7.0\ref\proga_1.dll
